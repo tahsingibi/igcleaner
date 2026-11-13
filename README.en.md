@@ -71,6 +71,4 @@ IGCleaner is not affiliated with or endorsed by Instagram or Meta. It depends on
 
 When reporting an issue, describe the action and error message. Do not share cookies, session tokens, or private message contents.
 
-## Developer
-
-[sungur.dev](https://sungur.dev) · [GitHub / igcleaner](https://github.com/tahsingibi/igcleaner) · [Instagram / @tahsingibi](https://www.instagram.com/tahsingibi/)
+[sungur.dev](https://sungur.dev)

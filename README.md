@@ -79,6 +79,4 @@ Konsolda çalıştırılan kod, açık hesabın üzerinde işlem yapabilir. Çal
 
 Bir sorun bildirirken yaptığın işlemi ve hata mesajını yazabilirsin. Çerez, oturum anahtarı veya özel mesaj içeriklerini paylaşma.
 
-## Geliştirici
-
-[sungur.dev](https://sungur.dev) · [GitHub / igcleaner](https://github.com/tahsingibi/igcleaner) · [Instagram / @tahsingibi](https://www.instagram.com/tahsingibi/)
+[sungur.dev](https://sungur.dev)
