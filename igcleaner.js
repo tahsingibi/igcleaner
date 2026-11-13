@@ -16,7 +16,7 @@
 const IG_BRAND = {
   title: "IGCleaner",
   handle: "@tahsingibi",
-  handleUrl: "https://www.instagram.com/tahsingibi/",
+  handleUrl: "https://x.com/tahsingibi/",
   site: "sungur.dev",
   siteUrl: "https://sungur.dev",
   github: "github.com/tahsingibi/igcleaner",
