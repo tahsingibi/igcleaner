@@ -1,14 +1,12 @@
 # IGCleaner
 
-**TR — Türkçe** · [EN — English](./README.en.md)
+**TR** · [EN](./README.en.md)
 
 Instagram sohbetlerini ve kaydedilen gönderilerini tarayıcı üzerinden yönetmek için JavaScript aracı. Instagram sekmesinde çalışır ve sayfanın sağında bir panel açar.
 
 > **Uyarı: Otomatik işlemler Instagram hesabınızın kısıtlanmasına, güvenlik doğrulaması istenmesine veya askıya alınmasına yol açabilir. Bekleme süreleri ve durdurma kontrolleri bu riski ortadan kaldırmaz. Hesabınızın kısıtlanmayacağına dair garanti verilmez.**
 
 **[Kodu aç → igcleaner.js](https://raw.githubusercontent.com/tahsingibi/igcleaner/main/igcleaner.js)**
-
-[GitHub deposu](https://github.com/tahsingibi/igcleaner) · [Kullanım yazısı](https://sungur.dev/write/igcleaner)
 
 ## Neler yapar?
 
@@ -80,13 +78,6 @@ Konsolda çalıştırılan kod, açık hesabın üzerinde işlem yapabilir. Çal
 - Bu depoda kodun bulunması, her hesap ve tarayıcıda çalıştığının doğrulandığı anlamına gelmez.
 
 Bir sorun bildirirken yaptığın işlemi ve hata mesajını yazabilirsin. Çerez, oturum anahtarı veya özel mesaj içeriklerini paylaşma.
-
-## Dosyalar
-
-| Dosya | İçerik |
-| --- | --- |
-| [README.en.md](./README.en.md) | İngilizce kullanım açıklaması. |
-| [igcleaner.js](https://raw.githubusercontent.com/tahsingibi/igcleaner/main/igcleaner.js) | Mesajlar ve kaydedilenler için IGCleaner paneli. Kullanım için bu dosyayı seç. |
 
 ## Geliştirici
 

@@ -1,14 +1,12 @@
 # IGCleaner
 
-[TR — Türkçe](./README.md) · **EN — English**
+[TR](./README.md) · **EN**
 
 A single-file JavaScript tool for managing Instagram chats and saved posts. It runs in your logged-in Instagram tab and opens a floating panel.
 
 > **Warning: Automated actions may result in account restrictions, security verification, or suspension. Delays and stop controls do not eliminate this risk. There is no guarantee that your account will remain unrestricted.**
 
 **[Open igcleaner.js](https://raw.githubusercontent.com/tahsingibi/igcleaner/main/igcleaner.js)**
-
-[GitHub repository](https://github.com/tahsingibi/igcleaner) · [Usage article in Turkish](https://sungur.dev/write/igcleaner)
 
 ## Features
 
@@ -72,10 +70,6 @@ The script uses your existing Instagram session and reads session cookies and pa
 IGCleaner is not affiliated with or endorsed by Instagram or Meta. It depends on internal endpoints and page structures that may change. Availability of the source code does not mean it has been verified with every account and browser. Request pacing and error handling do not guarantee uninterrupted operation or protection against restrictions.
 
 When reporting an issue, describe the action and error message. Do not share cookies, session tokens, or private message contents.
-
-## Files
-
-- [igcleaner.js](https://raw.githubusercontent.com/tahsingibi/igcleaner/main/igcleaner.js): The script to run on Instagram.
 
 ## Developer
 
